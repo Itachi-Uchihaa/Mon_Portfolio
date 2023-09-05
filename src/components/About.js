@@ -169,7 +169,7 @@ const About = () => {
               <div className="skills-box">
                 <h3>Back-end</h3>
                 <div className="skill-lt d-flex flex-row">
-                  <img src="static/icon/Node.js.svg" width={50} height={50} className="mr-2"/>
+                  <img src="static/icon/Node.js.svg" width={20} height={20} className="mr-2"/>
                   <h6>NodeJS</h6>
                 </div>
                 <div className="skill-lt d-flex flex-row">
