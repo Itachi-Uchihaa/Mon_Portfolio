@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../src/components/Services.js -> ./Testimonials":{id:6112,files:["static/chunks/514.1be2e4221d35afb8.js","static/chunks/112.8c7bc22364056d3e.js"]},"index.js -> ../src/components/Portfolio":{id:1392,files:["static/chunks/966.ad5594ca0287e148.js","static/chunks/392.e2857d2113a30be1.js"]}};
