@@ -173,7 +173,7 @@ const Header = ({ blog  })=>{
                                 href: "/",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                     className: "logo-text",
-                                    children: "Sergio"
+                                    children: "Zola"
                                 })
                             })
                         }),
@@ -209,7 +209,7 @@ const Header = ({ blog  })=>{
                                             })
                                         }),
                                         /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                            children: "Sergiobi"
+                                            children: "Voldi Zola"
                                         })
                                     ]
                                 })

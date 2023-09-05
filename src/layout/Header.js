@@ -14,7 +14,7 @@ const Header = ({ blog }) => {
         <div className="d-flex">
           <div className="navbar-brand">
             <Link href="/">
-              <a className="logo-text">Sergio</a>
+              <a className="logo-text">Zola</a>
             </Link>
           </div>
           <button
@@ -40,7 +40,7 @@ const Header = ({ blog }) => {
               <div className="img">
                 <img src="static/img/head_jaune.png" title="" alt="" />
               </div>
-              <h5>Sergiobi</h5>
+              <h5>Voldi Zola</h5>
             </div>
           </div>
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}
