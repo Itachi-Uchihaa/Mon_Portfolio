@@ -112,7 +112,7 @@ const About = () => {
                   </div>
                 </div>
                 <div className="skill-lt">
-                  <h6>VueJS</h6>
+                  <h6>Java</h6>
                   <div className="skill-bar">
                     <div className="skill-bar-in" style={{ width: "62%" }}>
                       <span data-toggle="tooltip" title="92%" />
